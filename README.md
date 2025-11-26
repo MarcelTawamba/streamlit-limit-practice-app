@@ -1,4 +1,4 @@
-# Limit Practice App 📐
+# Limit Practice App
 
 A Streamlit application that helps students practice evaluating limits involving square roots and rational expressions.
 
@@ -23,7 +23,7 @@ where `b` and `c` are integers chosen such that:
 - **Clean UI**: Student-friendly interface with clear problem display
 
 ## Prerequisites
-1. install a version of python betwee 3.9 and 3.12 
+1. install a version of python between 3.9 and 3.12 
 (any version before 3.9 and after 3.12 will not install streamlit packages properly)
 
 ## Installation
@@ -81,7 +81,6 @@ limit-practice-app/
 ## Technologies Used
 
 - **Streamlit**: Web app framework
-- **SymPy**: Symbolic mathematics (for potential extensions)
 - **Python Fractions**: For exact fractional arithmetic
 
 ## Author
